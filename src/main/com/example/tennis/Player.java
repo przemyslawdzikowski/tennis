@@ -18,11 +18,11 @@ public class Player {
     } 
 
     public void incrementPoints() {
-        if (this.points == 40) {
+        if (this.points == PlayConstants.VALUE_OF_FOURTY) {
             this.advantage++;
         }
         if (this.points == 30) {
-            this.points = this.points + 10;
+            this.points = PlayConstants.VALUE_OF_FOURTY;
         }
         if (this.points < 30) {
             this.points = this.points + 15;

@@ -7,6 +7,6 @@ public class PlayConstants {
     protected static final Integer WIN_PLAYER_TWO = Integer.valueOf(2);
     
     // game value of 40
-    protected static final int VALUE_OF_FOURTY = Integer.valueOf(40);
+    protected static final int VALUE_OF_FOURTY = 40;
     
 }
