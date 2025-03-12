@@ -1,4 +1,4 @@
-package main.com.example.tennis;
+package com.example.tennis;
 
 public class PlayLogic {
     
